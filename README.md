@@ -5,14 +5,14 @@ Librería que muestra diferentes mensajes en colores personalizados para hacer r
 ## Instalación
 
 ```
-npm i custom-console-log
+npm i custom-console
 ```
 
 ## Uso
 
 Para usar el módulo tenemos que importarlo.
 ```javascript
-var m = require('custom-console-log');
+var m = require('custom-console');
 ```
 ### Mensaje de confirmación "ok"
 
